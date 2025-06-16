@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Ceanglaichean
-category: Ceanglaichea
+category: Ceanglaichean
 permalink: /roinn-seorsa/ceanglaichean/
 ---
