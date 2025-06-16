@@ -1,0 +1,1 @@
+[Criomagan](https://criomadan.scot) is a Scottish Gaelic blog about technology, Gaelic and projects by Crìstean MacMhìcheil.

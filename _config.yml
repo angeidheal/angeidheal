@@ -1,0 +1,27 @@
+# Site settings
+title: Criomagan
+description: Blog Chrìstein MhicMhìcheil
+# baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://criomagan.scot" # the base hostname & protocol for your site
+excerpt_separator: <!--more-->
+
+#footer
+author-name: Crìstean MacMhìcheil
+author-website: "https://criomagan.scot"
+
+#social
+mastodon: 
+instagram: 
+threads: 
+email: fios@criomagan.scot
+
+# Build settings
+markdown: kramdown
+permalink: /:year-:month-:day-:title/
+paginate: 12
+paginate_path: /duilleag-:num/
+
+# Ruby Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
