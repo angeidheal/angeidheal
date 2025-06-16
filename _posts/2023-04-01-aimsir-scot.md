@@ -2,7 +2,7 @@
 layout: post
 date: 2023-04-01 08:28
 title: "Aimsir.scot"
-image: /assets/images/aimsir.png
+image: /images/posts/aimsir.png
 author: Crìstean MacMhìcheil
 categories: ["Blog", "Gàidhlig"]
 ---

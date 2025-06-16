@@ -2,7 +2,7 @@
 layout: post
 date: 2019-02-17 18:00
 title: "A' gluasad bho WordPress gu Jekyll"
-image: /assets/images/jekyll.png
+image: /images/posts/jekyll.png
 author: Crìstean MacMhìcheil
 categories: ["Blog", "Teicneòlas"]
 ---

@@ -2,7 +2,7 @@
 layout: post
 date: 2022-11-20 08:36
 title: "SwiftKey ri fhaighinn air iOS a‑rithist"
-image: /assets/images//swiftkey.png
+image: /images/posts//swiftkey.png
 author: Crìstean MacMhìcheil
 categories: ["Gàidhlig", "Teicneòlas"]
 ---

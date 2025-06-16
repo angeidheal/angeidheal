@@ -2,7 +2,7 @@
 layout: post
 date: 2020-03-08 08:00
 title: "Aimsir.scot: Seirbheis aimsir Ghàidhlig"
-image: /assets/images/aimsir.png
+image: /images/posts/aimsir.png
 author: Crìstean MacMhìcheil
 categories: ["Blog", "Gàidhlig", "Teicneòlas"]
 ---

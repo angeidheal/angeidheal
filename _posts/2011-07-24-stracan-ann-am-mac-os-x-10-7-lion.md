@@ -2,7 +2,7 @@
 layout: post
 date: 2011-07-24 12:43
 title: "Stràcan ann am Mac OS X 10.7 Lion"
-image: /assets/images/stracan.png
+image: /images/posts/stracan.png
 author: Crìstean MacMhìcheil
 categories: ["Gàidhlig", "Teicneòlas"]
 ---

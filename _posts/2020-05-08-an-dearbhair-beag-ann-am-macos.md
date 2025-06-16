@@ -2,7 +2,7 @@
 layout: post
 date: 2020-05-08 15:00
 title: "An Dearbhair Beag ann am macOS"
-image: /assets/images/an-dearbhair-bheag.png
+image: /images/posts/an-dearbhair-bheag.png
 author: Crìstean MacMhìcheil
 categories: ["Gàidhlig", "Teicneòlas"]
 ---

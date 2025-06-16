@@ -2,7 +2,7 @@
 layout: post
 date: 2022-12-15 17:00
 title: "Faclair.lgbt"
-image: /assets/images/fnang.png
+image: /images/posts/fnang.png
 author: Crìstean MacMhìcheil
 categories: ["Blog", "Gàidhlig", "LGBTQIA+"]
 ---

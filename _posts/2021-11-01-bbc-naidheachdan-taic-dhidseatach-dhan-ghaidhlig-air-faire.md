@@ -2,7 +2,7 @@
 layout: post
 date: 2021-11-01 12:28
 title: "BBC Naidheachdan: 'Taic dhidseatach dhan Ghàidhlig air fàire'"
-image: /assets/images/fo-thiotalan.png
+image: /images/posts/fo-thiotalan.png
 author: Crìstean MacMhìcheil
 categories: ["Ceanglaichean", "Gàidhlig", "Teicneòlas"]
 ---

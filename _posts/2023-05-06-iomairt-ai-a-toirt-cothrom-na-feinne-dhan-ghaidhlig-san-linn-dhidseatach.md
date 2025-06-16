@@ -2,7 +2,7 @@
 layout: post
 date: 2023-05-06 12:28
 title: "Iomairt AI a’ toirt cothrom na Fèinne dhan Ghàidhlig san linn dhidseatach"
-image: /assets/images/fo-thiotalan.png
+image: /images/posts/fo-thiotalan.png
 author: Crìstean MacMhìcheil
 categories: ["Ceanglaichean", "Gàidhlig", "Teicneòlas"]
 ---

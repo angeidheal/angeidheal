@@ -2,7 +2,7 @@
 layout: post
 date: 2018-05-07 11:34
 title: "Suidheachadh na Gàidhlig mar locale ann an iOS"
-image: /assets/images/ios.png
+image: /images/posts/ios.png
 author: Crìstean MacMhìcheil
 categories: ["Gàidhlig", "Teicneòlas"]
 ---

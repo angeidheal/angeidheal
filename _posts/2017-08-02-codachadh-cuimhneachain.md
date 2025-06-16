@@ -2,7 +2,7 @@
 layout: post
 date: 2017-08-02 08:28
 title: "Còdachadh: Cuimhneachain"
-image: /assets/images/cuimhneachain.png
+image: /images/posts/cuimhneachain.png
 author: Crìstean MacMhìcheil
 categories: ["Blog", "Gàidhlig", "Teicneòlas"]
 ---

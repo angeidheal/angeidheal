@@ -2,7 +2,7 @@
 layout: post
 date: 2018-05-03 14:08
 title: "Suidheachadh na Gàidhlig mar locale ann an macOS"
-image: /assets/images/mac-os.png
+image: //images/posts/mac-os.png
 author: Crìstean MacMhìcheil
 categories: ["Gàidhlig", "Teicneòlas"]
 ---
@@ -25,4 +25,4 @@ Mar seo:
 
 (‘S ann à macOS 10.13.4 a tha na dealbhan gu h-ìosal).
 
-![Suidheachadh na Gàidhlig ann am macOS](/assets/images/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos.gif)
+![Suidheachadh na Gàidhlig ann am macOS](/images/posts/2018-05-03-suidheachadh-na-gaidhlig-mar-locale-ann-an-macos.gif)

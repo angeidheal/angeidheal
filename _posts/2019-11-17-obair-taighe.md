@@ -2,7 +2,7 @@
 layout: post
 date: 2019-11-17 12:30
 title: "Obair-taighe"
-image: /assets/images/working-copy.png
+image: /images/posts/working-copy.png
 author: Crìstean MacMhìcheil
 categories: ["Blog", "Teicneòlas"]
 ---
