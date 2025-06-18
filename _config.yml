@@ -1,8 +1,8 @@
 # Site settings
-title: Criomagan
+title: An Gèidheal
 description: Blog Chrìstein MhicMhìcheil
 # baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://criomagan.scot" # the base hostname & protocol for your site
+url: "https://angeidheal.scot" # the base hostname & protocol for your site
 excerpt_separator: <!--more-->
 
 #footer
