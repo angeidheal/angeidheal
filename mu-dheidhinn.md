@@ -14,4 +14,4 @@ Cheumnaich mi bho Sabhal Mòr Ostaig ann an 2010 le BA (le Urram) ann an Gàidhl
 
 ## Cuir fios
 
-**Post-d.** [fios@criomagan.scot](mailto:fios@criomagan.scot)
+**Post-d.** [fios@angeidheal.scot](mailto:fios@angeidheal.scot)
